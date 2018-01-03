@@ -22,7 +22,8 @@ In this workshop we will learn to do the following:
 
 ## Exercises ##
 
-Please install the [Exercise](https://azure.microsoft.com/en-us/free/) folder.
+Please install the [Exercise](https://github.com/AditGupta25/Workshops/tree/master/EasternWorkshop/AP_Workshop/Exercise/) folder for the instruction and code. 
+
 
 ## Authors
 
